@@ -100,27 +100,18 @@ content:
         caption: 2003 - 2004
         sub_title: MSc Computer Science
         quote: >
-          Lead developer at a BAFTA winning mobile development studio
+          A solid foundation in programming and computer science on this MSc conversion course at a Russell Group University.
         description: | # this will include new lines to allow paragraphs
-          Led a cross platform native mobile and web development team at Rantmedia, a leading UK mobile agency.  
-
-          Highlights include work on a BAFTA winning cross platform game, designing a CI driven cross platform build system and shepherding the team towards a more test-driven approach to development, improving code quality and reducing reported bugs. 
-
-          Successfully delivered projects for dozens of clients during my four years here. Originally recruited as a systems architect then promoted to CTO in 2016. 
-      
+          Java, OOP, database design, UML, discrete mathematics, data structures and algorithms - an excellent foundation for a career in software development.      
 
       - layout: left
-       title: Cardiff University
-       caption: 1997 - 2000
-       sub_title: BA English Literature
-       quote: >
-          Lead developer at a BAFTA winning mobile development studio
-       description: | # this will include new lines to allow paragraphs
-          Led a cross platform native mobile and web development team at Rantmedia, a leading UK mobile agency.  
-  
-          Highlights include work on a BAFTA winning cross platform game, designing a CI driven cross platform build system and shepherding the team towards a more test-driven approach to development, improving code quality and reducing reported bugs. 
-  
-          Successfully delivered projects for dozens of clients during my four years here. Originally recruited as a systems architect then promoted to CTO in 2016. 
+        title: Cardiff University
+        caption: 1997 - 2000
+        sub_title: BA English Literature
+        quote: >
+          Developed communication, problem solving and analysis skills (and a slightly useless lifelong love of desolate, alcohol soaked interwar literature).
+        description: | # this will include new lines to allow paragraphs
+          Degree class 2:1
 
 
   - title: A Little More About Me
