@@ -155,8 +155,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in technology and software engineering some of my other hobbies are:
-      - Writing (Short stories and longer fiction)
-      - Politics (Many nerdy podcasts consumed)
+      - Writing (short stories and longer fiction)
+      - Politics (many nerdy podcasts consumed)
       - Cinema
       - Hiking
 
