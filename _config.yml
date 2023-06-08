@@ -45,7 +45,7 @@ linkedin_username: rustynailor
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hands on technical lead with agency and startup experience. Proven leadership and management skills.  20+ years working in development and leadership roles in mobile and web.  
@@ -64,7 +64,7 @@ content:
       - layout: left
         title: Bond Digital Health
         sub_title: CTO
-        caption: MARCH  2019 - SEPTEMBER 2022,  CARDIFF
+        caption: MARCH  2019 - SEPTEMBER 2022
         quote: >
           A universal data capture platform for the lateral flow industry
         description: | # this will include new lines to allow paragraphs
@@ -92,11 +92,11 @@ content:
           Successfully delivered projects for dozens of clients during my four years here. Originally recruited as a systems architect then promoted to CTO in 2016.
 
       - layout: left
-        title: Various Clients
+        title: Various clients
         sub_title: Freelance Web and Mobile Developer
         caption: JANUARY 2014 - DECEMBER 2015
         quote: >
-          Mobile and Web freelance work with clients in Cardiff, London and Bristol
+          Mobile and web freelance work with clients in Cardiff, London and Bristol
         description: | # this will include new lines to allow paragraphs
           Worked as the sole developer on projects for various clients including a Laravel based timesheet tracking system, an Android app designed to help people give up smoking and a digital asset management system for a chain of estate agents.
 
