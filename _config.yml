@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Russell Hicks
-title: Technical Lead and Experienced Manager
+title: Technical lead and experienced manager
 email: russell@scapegrace.co.uk
 website: www.rustynailor.co.uk
 
@@ -30,10 +30,10 @@ linkedin_username: rustynailor
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -89,7 +89,44 @@ content:
           
           Highlights include work on a BAFTA winning cross platform game, designing a CI driven cross platform build system and shepherding the team towards a more test-driven approach to development, improving code quality and reducing reported bugs. 
           
-          Successfully delivered projects for dozens of clients during my four years here. Originally recruited as a systems architect then promoted to CTO in 2016. 
+          Successfully delivered projects for dozens of clients during my four years here. Originally recruited as a systems architect then promoted to CTO in 2016.
+
+      - layout: left
+        title: Various Clients
+        sub_title: Freelance Web and Mobile Developer
+        caption: JANUARY 2014 - DECEMBER 2015
+        quote: >
+          Mobile and Web freelance work with clients in Cardiff, London and Bristol
+        description: | # this will include new lines to allow paragraphs
+          Worked as the sole developer on projects for various clients including a Laravel based timesheet tracking system, an Android app designed to help people give up smoking and a digital asset management system for a chain of estate agents.
+
+      - layout: left
+        title: Subhub
+        sub_title: Senior Software Engineer
+        caption: APRIL 2012 - DECEMBER 2013
+        quote: >
+          PHP/Drupal based SASS platform for content providers
+        description: | # this will include new lines to allow paragraphs
+          Senior developer on Wordpress and Drupal-based paywall subscription content management systems.
+
+      - layout: left
+        title: Big Eye Deers
+        sub_title: Technical Director
+        caption: SEPTEMBER 2009 – JANUARY 2011
+        quote: >
+          Cardiff based agency with great designs
+        description: | # this will include new lines to allow paragraphs
+          Co-founder and lead developer at Magento and Wordpress web agency.
+
+      - layout: left
+        title: Inexus
+        sub_title: Software Developer / Digital Marketing Manager
+        caption: NOVEMBER 2004 – AUGUST 2009
+        quote: >
+          (Now defunct) Independent utility infrastructure installation and management
+        description: | # this will include new lines to allow paragraphs
+          Worked as a developer on a PL/SQL Oracle 8 based internal asset management product. Promoted to Marketing manager and led development and marketing team in multiple web projects for Inexus products and companies.
+
 
 
   - title: Education # Title for the section
@@ -114,12 +151,14 @@ content:
           Degree class 2:1
 
 
-  - title: A Little More About Me
+  - title: A little more about me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in technology and software engineering some of my other interests and hobbies are:
+      Alongside my interests in technology and software engineering some of my other hobbies are:
       - Writing (Short stories and longer fiction)
-      - Politics nerdiness
+      - Politics (Many nerdy podcasts consumed)
+      - Cinema
+      - Hiking
 
 
 # Footer
